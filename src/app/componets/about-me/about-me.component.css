@@ -1,0 +1,7 @@
+.heading{
+    color : var(--headingColor);
+}
+
+.textcolor{
+    color: var(--textColor);
+}

@@ -10,7 +10,7 @@
 .social-icons{
     color: #FFF;
     :hover{
-        color: gold;
+        color: var(--headingColor);
     }
 }
 
