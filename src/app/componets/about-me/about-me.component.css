@@ -5,3 +5,28 @@
 .textcolor{
     color: var(--textColor);
 }
+
+.my-img{
+    background-color: #f1c793 !important;
+    mix-blend-mode: lighten;
+}
+
+@media (min-width:575px) {
+    .my-img{
+        height: 450px;
+        width:450px;
+    }
+}
+
+@media (min-width:575px) {
+    .my-img{
+        height: 450px;
+        width:450px;
+    }
+}
+@media (max-width:575px) {
+    .my-img{
+        height: 300px;
+        width:300px;
+    }
+}
