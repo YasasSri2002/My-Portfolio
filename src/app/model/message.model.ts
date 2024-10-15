@@ -1,4 +1,4 @@
-export interface msg{
+export interface Message{
     name: string,
     email: string,
     msg: string
